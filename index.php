@@ -1,5 +1,12 @@
 <?php
 
+mkdir("banfile");
+mkdir("temp_files");
+mkdir("tmp");
+mkdir("user_location");
+mkdir("warnfile");
+
+
 //sozlash
 include 'Telegram.php';
 include 'efede.class.php';
