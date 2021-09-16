@@ -7,7 +7,7 @@ include 'efede.class.php';
 $admin = '75643804';
 $admin2 = '368844346';
 
-$bot_token='7e56536313:AAEQ1b1-gergrshtrHGGfdIChuE';
+$bot_token='1756006247:AAGT_cktvsg84OSLJrdReaNr0PNSl2dmiE8';
 $bot_name = 'GoldHostingBot';
 
 
