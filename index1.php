@@ -1,7 +1,7 @@
 ##bismillahir_rohmanir_rohim##
 <?php
 ob_start();
-define('API_KEY','1419326237:AAG37xdHsAVP1agg6OXbqm99HcJGYH6n6cc');
+define('API_KEY','1756006247:AAGT_cktvsg84OSLJrdReaNr0PNSl2dmiE8');
 $admin = '412711387';
 
 function bot($method,$datas=[]){
